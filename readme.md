@@ -23,6 +23,7 @@ Para crear un entorno virtual en la carpeta `venv`, ejecuta el siguiente comando
 
 ```bash
 python -m venv venv
+```
 
 ## Requisitos de instalación
 
@@ -30,3 +31,4 @@ Para instalar las dependencias necesarias, ejecuta el siguiente comando:
 
 ```bash
 pip install -r requirements.txt
+```
